@@ -1,0 +1,601 @@
+Month 9:
+Schedule 1:
+Richard: Office - Monday, Tuesday, Wednesday, Home - Thursday, Friday
+Eben: Office - Tuesday, Wednesday, Thursday, Home - Friday, Monday
+Emma: Office - Wednesday, Thursday, Friday, Home - Monday, Tuesday
+
+Schedule 2:
+Richard: Office - Monday, Tuesday, Wednesday, Home - Friday, Thursday
+Eben: Office - Tuesday, Wednesday, Friday, Home - Thursday, Monday
+Emma: Office - Wednesday, Friday, Thursday, Home - Monday, Tuesday
+
+Schedule 3:
+Richard: Office - Monday, Tuesday, Thursday, Home - Wednesday, Friday
+Eben: Office - Tuesday, Thursday, Wednesday, Home - Friday, Monday
+Emma: Office - Thursday, Wednesday, Friday, Home - Monday, Tuesday
+
+Schedule 4:
+Richard: Office - Monday, Tuesday, Thursday, Home - Friday, Wednesday
+Eben: Office - Tuesday, Thursday, Friday, Home - Wednesday, Monday
+Emma: Office - Thursday, Friday, Wednesday, Home - Monday, Tuesday
+
+Schedule 5:
+Richard: Office - Monday, Tuesday, Friday, Home - Wednesday, Thursday
+Eben: Office - Tuesday, Friday, Wednesday, Home - Thursday, Monday
+Emma: Office - Friday, Wednesday, Thursday, Home - Monday, Tuesday
+
+Schedule 6:
+Richard: Office - Monday, Tuesday, Friday, Home - Thursday, Wednesday
+Eben: Office - Tuesday, Friday, Thursday, Home - Wednesday, Monday
+Emma: Office - Friday, Thursday, Wednesday, Home - Monday, Tuesday
+
+Schedule 7:
+Richard: Office - Monday, Wednesday, Tuesday, Home - Thursday, Friday
+Eben: Office - Wednesday, Tuesday, Thursday, Home - Friday, Monday
+Emma: Office - Tuesday, Thursday, Friday, Home - Monday, Wednesday
+
+Schedule 8:
+Richard: Office - Monday, Wednesday, Tuesday, Home - Friday, Thursday
+Eben: Office - Wednesday, Tuesday, Friday, Home - Thursday, Monday
+Emma: Office - Tuesday, Friday, Thursday, Home - Monday, Wednesday
+
+Schedule 9:
+Richard: Office - Monday, Wednesday, Thursday, Home - Tuesday, Friday
+Eben: Office - Wednesday, Thursday, Tuesday, Home - Friday, Monday
+Emma: Office - Thursday, Tuesday, Friday, Home - Monday, Wednesday
+
+Schedule 10:
+Richard: Office - Monday, Wednesday, Thursday, Home - Friday, Tuesday
+Eben: Office - Wednesday, Thursday, Friday, Home - Tuesday, Monday
+Emma: Office - Thursday, Friday, Tuesday, Home - Monday, Wednesday
+
+Schedule 11:
+Richard: Office - Monday, Wednesday, Friday, Home - Tuesday, Thursday
+Eben: Office - Wednesday, Friday, Tuesday, Home - Thursday, Monday
+Emma: Office - Friday, Tuesday, Thursday, Home - Monday, Wednesday
+
+Schedule 12:
+Richard: Office - Monday, Wednesday, Friday, Home - Thursday, Tuesday
+Eben: Office - Wednesday, Friday, Thursday, Home - Tuesday, Monday
+Emma: Office - Friday, Thursday, Tuesday, Home - Monday, Wednesday
+
+Schedule 13:
+Richard: Office - Monday, Thursday, Tuesday, Home - Wednesday, Friday
+Eben: Office - Thursday, Tuesday, Wednesday, Home - Friday, Monday
+Emma: Office - Tuesday, Wednesday, Friday, Home - Monday, Thursday
+
+Schedule 14:
+Richard: Office - Monday, Thursday, Tuesday, Home - Friday, Wednesday
+Eben: Office - Thursday, Tuesday, Friday, Home - Wednesday, Monday
+Emma: Office - Tuesday, Friday, Wednesday, Home - Monday, Thursday
+
+Schedule 15:
+Richard: Office - Monday, Thursday, Wednesday, Home - Tuesday, Friday
+Eben: Office - Thursday, Wednesday, Tuesday, Home - Friday, Monday
+Emma: Office - Wednesday, Tuesday, Friday, Home - Monday, Thursday
+
+Schedule 16:
+Richard: Office - Monday, Thursday, Wednesday, Home - Friday, Tuesday
+Eben: Office - Thursday, Wednesday, Friday, Home - Tuesday, Monday
+Emma: Office - Wednesday, Friday, Tuesday, Home - Monday, Thursday
+
+Schedule 17:
+Richard: Office - Monday, Thursday, Friday, Home - Tuesday, Wednesday
+Eben: Office - Thursday, Friday, Tuesday, Home - Wednesday, Monday
+Emma: Office - Friday, Tuesday, Wednesday, Home - Monday, Thursday
+
+Schedule 18:
+Richard: Office - Monday, Thursday, Friday, Home - Wednesday, Tuesday
+Eben: Office - Thursday, Friday, Wednesday, Home - Tuesday, Monday
+Emma: Office - Friday, Wednesday, Tuesday, Home - Monday, Thursday
+
+Schedule 19:
+Richard: Office - Monday, Friday, Tuesday, Home - Wednesday, Thursday
+Eben: Office - Friday, Tuesday, Wednesday, Home - Thursday, Monday
+Emma: Office - Tuesday, Wednesday, Thursday, Home - Monday, Friday
+
+Schedule 20:
+Richard: Office - Monday, Friday, Tuesday, Home - Thursday, Wednesday
+Eben: Office - Friday, Tuesday, Thursday, Home - Wednesday, Monday
+Emma: Office - Tuesday, Thursday, Wednesday, Home - Monday, Friday
+
+Schedule 21:
+Richard: Office - Monday, Friday, Wednesday, Home - Tuesday, Thursday
+Eben: Office - Friday, Wednesday, Tuesday, Home - Thursday, Monday
+Emma: Office - Wednesday, Tuesday, Thursday, Home - Monday, Friday
+
+Schedule 22:
+Richard: Office - Monday, Friday, Wednesday, Home - Thursday, Tuesday
+Eben: Office - Friday, Wednesday, Thursday, Home - Tuesday, Monday
+Emma: Office - Wednesday, Thursday, Tuesday, Home - Monday, Friday
+
+Schedule 23:
+Richard: Office - Monday, Friday, Thursday, Home - Tuesday, Wednesday
+Eben: Office - Friday, Thursday, Tuesday, Home - Wednesday, Monday
+Emma: Office - Thursday, Tuesday, Wednesday, Home - Monday, Friday
+
+Schedule 24:
+Richard: Office - Monday, Friday, Thursday, Home - Wednesday, Tuesday
+Eben: Office - Friday, Thursday, Wednesday, Home - Tuesday, Monday
+Emma: Office - Thursday, Wednesday, Tuesday, Home - Monday, Friday
+
+Schedule 25:
+Richard: Office - Tuesday, Monday, Wednesday, Home - Thursday, Friday
+Eben: Office - Monday, Wednesday, Thursday, Home - Friday, Tuesday
+Emma: Office - Wednesday, Thursday, Friday, Home - Tuesday, Monday
+
+Schedule 26:
+Richard: Office - Tuesday, Monday, Wednesday, Home - Friday, Thursday
+Eben: Office - Monday, Wednesday, Friday, Home - Thursday, Tuesday
+Emma: Office - Wednesday, Friday, Thursday, Home - Tuesday, Monday
+
+Schedule 27:
+Richard: Office - Tuesday, Monday, Thursday, Home - Wednesday, Friday
+Eben: Office - Monday, Thursday, Wednesday, Home - Friday, Tuesday
+Emma: Office - Thursday, Wednesday, Friday, Home - Tuesday, Monday
+
+Schedule 28:
+Richard: Office - Tuesday, Monday, Thursday, Home - Friday, Wednesday
+Eben: Office - Monday, Thursday, Friday, Home - Wednesday, Tuesday
+Emma: Office - Thursday, Friday, Wednesday, Home - Tuesday, Monday
+
+Schedule 29:
+Richard: Office - Tuesday, Monday, Friday, Home - Wednesday, Thursday
+Eben: Office - Monday, Friday, Wednesday, Home - Thursday, Tuesday
+Emma: Office - Friday, Wednesday, Thursday, Home - Tuesday, Monday
+
+Schedule 30:
+Richard: Office - Tuesday, Monday, Friday, Home - Thursday, Wednesday
+Eben: Office - Monday, Friday, Thursday, Home - Wednesday, Tuesday
+Emma: Office - Friday, Thursday, Wednesday, Home - Tuesday, Monday
+
+Schedule 31:
+Richard: Office - Tuesday, Wednesday, Monday, Home - Thursday, Friday
+Eben: Office - Wednesday, Monday, Thursday, Home - Friday, Tuesday
+Emma: Office - Monday, Thursday, Friday, Home - Tuesday, Wednesday
+
+Schedule 32:
+Richard: Office - Tuesday, Wednesday, Monday, Home - Friday, Thursday
+Eben: Office - Wednesday, Monday, Friday, Home - Thursday, Tuesday
+Emma: Office - Monday, Friday, Thursday, Home - Tuesday, Wednesday
+
+Schedule 33:
+Richard: Office - Tuesday, Wednesday, Thursday, Home - Monday, Friday
+Eben: Office - Wednesday, Thursday, Monday, Home - Friday, Tuesday
+Emma: Office - Thursday, Monday, Friday, Home - Tuesday, Wednesday
+
+Schedule 34:
+Richard: Office - Tuesday, Wednesday, Thursday, Home - Friday, Monday
+Eben: Office - Wednesday, Thursday, Friday, Home - Monday, Tuesday
+Emma: Office - Thursday, Friday, Monday, Home - Tuesday, Wednesday
+
+Schedule 35:
+Richard: Office - Tuesday, Wednesday, Friday, Home - Monday, Thursday
+Eben: Office - Wednesday, Friday, Monday, Home - Thursday, Tuesday
+Emma: Office - Friday, Monday, Thursday, Home - Tuesday, Wednesday
+
+Schedule 36:
+Richard: Office - Tuesday, Wednesday, Friday, Home - Thursday, Monday
+Eben: Office - Wednesday, Friday, Thursday, Home - Monday, Tuesday
+Emma: Office - Friday, Thursday, Monday, Home - Tuesday, Wednesday
+
+Schedule 37:
+Richard: Office - Tuesday, Thursday, Monday, Home - Wednesday, Friday
+Eben: Office - Thursday, Monday, Wednesday, Home - Friday, Tuesday
+Emma: Office - Monday, Wednesday, Friday, Home - Tuesday, Thursday
+
+Schedule 38:
+Richard: Office - Tuesday, Thursday, Monday, Home - Friday, Wednesday
+Eben: Office - Thursday, Monday, Friday, Home - Wednesday, Tuesday
+Emma: Office - Monday, Friday, Wednesday, Home - Tuesday, Thursday
+
+Schedule 39:
+Richard: Office - Tuesday, Thursday, Wednesday, Home - Monday, Friday
+Eben: Office - Thursday, Wednesday, Monday, Home - Friday, Tuesday
+Emma: Office - Wednesday, Monday, Friday, Home - Tuesday, Thursday
+
+Schedule 40:
+Richard: Office - Tuesday, Thursday, Wednesday, Home - Friday, Monday
+Eben: Office - Thursday, Wednesday, Friday, Home - Monday, Tuesday
+Emma: Office - Wednesday, Friday, Monday, Home - Tuesday, Thursday
+
+Schedule 41:
+Richard: Office - Tuesday, Thursday, Friday, Home - Monday, Wednesday
+Eben: Office - Thursday, Friday, Monday, Home - Wednesday, Tuesday
+Emma: Office - Friday, Monday, Wednesday, Home - Tuesday, Thursday
+
+Schedule 42:
+Richard: Office - Tuesday, Thursday, Friday, Home - Wednesday, Monday
+Eben: Office - Thursday, Friday, Wednesday, Home - Monday, Tuesday
+Emma: Office - Friday, Wednesday, Monday, Home - Tuesday, Thursday
+
+Schedule 43:
+Richard: Office - Tuesday, Friday, Monday, Home - Wednesday, Thursday
+Eben: Office - Friday, Monday, Wednesday, Home - Thursday, Tuesday
+Emma: Office - Monday, Wednesday, Thursday, Home - Tuesday, Friday
+
+Schedule 44:
+Richard: Office - Tuesday, Friday, Monday, Home - Thursday, Wednesday
+Eben: Office - Friday, Monday, Thursday, Home - Wednesday, Tuesday
+Emma: Office - Monday, Thursday, Wednesday, Home - Tuesday, Friday
+
+Schedule 45:
+Richard: Office - Tuesday, Friday, Wednesday, Home - Monday, Thursday
+Eben: Office - Friday, Wednesday, Monday, Home - Thursday, Tuesday
+Emma: Office - Wednesday, Monday, Thursday, Home - Tuesday, Friday
+
+Schedule 46:
+Richard: Office - Tuesday, Friday, Wednesday, Home - Thursday, Monday
+Eben: Office - Friday, Wednesday, Thursday, Home - Monday, Tuesday
+Emma: Office - Wednesday, Thursday, Monday, Home - Tuesday, Friday
+
+Schedule 47:
+Richard: Office - Tuesday, Friday, Thursday, Home - Monday, Wednesday
+Eben: Office - Friday, Thursday, Monday, Home - Wednesday, Tuesday
+Emma: Office - Thursday, Monday, Wednesday, Home - Tuesday, Friday
+
+Schedule 48:
+Richard: Office - Tuesday, Friday, Thursday, Home - Wednesday, Monday
+Eben: Office - Friday, Thursday, Wednesday, Home - Monday, Tuesday
+Emma: Office - Thursday, Wednesday, Monday, Home - Tuesday, Friday
+
+Schedule 49:
+Richard: Office - Wednesday, Monday, Tuesday, Home - Thursday, Friday
+Eben: Office - Monday, Tuesday, Thursday, Home - Friday, Wednesday
+Emma: Office - Tuesday, Thursday, Friday, Home - Wednesday, Monday
+
+Schedule 50:
+Richard: Office - Wednesday, Monday, Tuesday, Home - Friday, Thursday
+Eben: Office - Monday, Tuesday, Friday, Home - Thursday, Wednesday
+Emma: Office - Tuesday, Friday, Thursday, Home - Wednesday, Monday
+
+Schedule 51:
+Richard: Office - Wednesday, Monday, Thursday, Home - Tuesday, Friday
+Eben: Office - Monday, Thursday, Tuesday, Home - Friday, Wednesday
+Emma: Office - Thursday, Tuesday, Friday, Home - Wednesday, Monday
+
+Schedule 52:
+Richard: Office - Wednesday, Monday, Thursday, Home - Friday, Tuesday
+Eben: Office - Monday, Thursday, Friday, Home - Tuesday, Wednesday
+Emma: Office - Thursday, Friday, Tuesday, Home - Wednesday, Monday
+
+Schedule 53:
+Richard: Office - Wednesday, Monday, Friday, Home - Tuesday, Thursday
+Eben: Office - Monday, Friday, Tuesday, Home - Thursday, Wednesday
+Emma: Office - Friday, Tuesday, Thursday, Home - Wednesday, Monday
+
+Schedule 54:
+Richard: Office - Wednesday, Monday, Friday, Home - Thursday, Tuesday
+Eben: Office - Monday, Friday, Thursday, Home - Tuesday, Wednesday
+Emma: Office - Friday, Thursday, Tuesday, Home - Wednesday, Monday
+
+Schedule 55:
+Richard: Office - Wednesday, Tuesday, Monday, Home - Thursday, Friday
+Eben: Office - Tuesday, Monday, Thursday, Home - Friday, Wednesday
+Emma: Office - Monday, Thursday, Friday, Home - Wednesday, Tuesday
+
+Schedule 56:
+Richard: Office - Wednesday, Tuesday, Monday, Home - Friday, Thursday
+Eben: Office - Tuesday, Monday, Friday, Home - Thursday, Wednesday
+Emma: Office - Monday, Friday, Thursday, Home - Wednesday, Tuesday
+
+Schedule 57:
+Richard: Office - Wednesday, Tuesday, Thursday, Home - Monday, Friday
+Eben: Office - Tuesday, Thursday, Monday, Home - Friday, Wednesday
+Emma: Office - Thursday, Monday, Friday, Home - Wednesday, Tuesday
+
+Schedule 58:
+Richard: Office - Wednesday, Tuesday, Thursday, Home - Friday, Monday
+Eben: Office - Tuesday, Thursday, Friday, Home - Monday, Wednesday
+Emma: Office - Thursday, Friday, Monday, Home - Wednesday, Tuesday
+
+Schedule 59:
+Richard: Office - Wednesday, Tuesday, Friday, Home - Monday, Thursday
+Eben: Office - Tuesday, Friday, Monday, Home - Thursday, Wednesday
+Emma: Office - Friday, Monday, Thursday, Home - Wednesday, Tuesday
+
+Schedule 60:
+Richard: Office - Wednesday, Tuesday, Friday, Home - Thursday, Monday
+Eben: Office - Tuesday, Friday, Thursday, Home - Monday, Wednesday
+Emma: Office - Friday, Thursday, Monday, Home - Wednesday, Tuesday
+
+Schedule 61:
+Richard: Office - Wednesday, Thursday, Monday, Home - Tuesday, Friday
+Eben: Office - Thursday, Monday, Tuesday, Home - Friday, Wednesday
+Emma: Office - Monday, Tuesday, Friday, Home - Wednesday, Thursday
+
+Schedule 62:
+Richard: Office - Wednesday, Thursday, Monday, Home - Friday, Tuesday
+Eben: Office - Thursday, Monday, Friday, Home - Tuesday, Wednesday
+Emma: Office - Monday, Friday, Tuesday, Home - Wednesday, Thursday
+
+Schedule 63:
+Richard: Office - Wednesday, Thursday, Tuesday, Home - Monday, Friday
+Eben: Office - Thursday, Tuesday, Monday, Home - Friday, Wednesday
+Emma: Office - Tuesday, Monday, Friday, Home - Wednesday, Thursday
+
+Schedule 64:
+Richard: Office - Wednesday, Thursday, Tuesday, Home - Friday, Monday
+Eben: Office - Thursday, Tuesday, Friday, Home - Monday, Wednesday
+Emma: Office - Tuesday, Friday, Monday, Home - Wednesday, Thursday
+
+Schedule 65:
+Richard: Office - Wednesday, Thursday, Friday, Home - Monday, Tuesday
+Eben: Office - Thursday, Friday, Monday, Home - Tuesday, Wednesday
+Emma: Office - Friday, Monday, Tuesday, Home - Wednesday, Thursday
+
+Schedule 66:
+Richard: Office - Wednesday, Thursday, Friday, Home - Tuesday, Monday
+Eben: Office - Thursday, Friday, Tuesday, Home - Monday, Wednesday
+Emma: Office - Friday, Tuesday, Monday, Home - Wednesday, Thursday
+
+Schedule 67:
+Richard: Office - Wednesday, Friday, Monday, Home - Tuesday, Thursday
+Eben: Office - Friday, Monday, Tuesday, Home - Thursday, Wednesday
+Emma: Office - Monday, Tuesday, Thursday, Home - Wednesday, Friday
+
+Schedule 68:
+Richard: Office - Wednesday, Friday, Monday, Home - Thursday, Tuesday
+Eben: Office - Friday, Monday, Thursday, Home - Tuesday, Wednesday
+Emma: Office - Monday, Thursday, Tuesday, Home - Wednesday, Friday
+
+Schedule 69:
+Richard: Office - Wednesday, Friday, Tuesday, Home - Monday, Thursday
+Eben: Office - Friday, Tuesday, Monday, Home - Thursday, Wednesday
+Emma: Office - Tuesday, Monday, Thursday, Home - Wednesday, Friday
+
+Schedule 70:
+Richard: Office - Wednesday, Friday, Tuesday, Home - Thursday, Monday
+Eben: Office - Friday, Tuesday, Thursday, Home - Monday, Wednesday
+Emma: Office - Tuesday, Thursday, Monday, Home - Wednesday, Friday
+
+Schedule 71:
+Richard: Office - Wednesday, Friday, Thursday, Home - Monday, Tuesday
+Eben: Office - Friday, Thursday, Monday, Home - Tuesday, Wednesday
+Emma: Office - Thursday, Monday, Tuesday, Home - Wednesday, Friday
+
+Schedule 72:
+Richard: Office - Wednesday, Friday, Thursday, Home - Tuesday, Monday
+Eben: Office - Friday, Thursday, Tuesday, Home - Monday, Wednesday
+Emma: Office - Thursday, Tuesday, Monday, Home - Wednesday, Friday
+
+Schedule 73:
+Richard: Office - Thursday, Monday, Tuesday, Home - Wednesday, Friday
+Eben: Office - Monday, Tuesday, Wednesday, Home - Friday, Thursday
+Emma: Office - Tuesday, Wednesday, Friday, Home - Thursday, Monday
+
+Schedule 74:
+Richard: Office - Thursday, Monday, Tuesday, Home - Friday, Wednesday
+Eben: Office - Monday, Tuesday, Friday, Home - Wednesday, Thursday
+Emma: Office - Tuesday, Friday, Wednesday, Home - Thursday, Monday
+
+Schedule 75:
+Richard: Office - Thursday, Monday, Wednesday, Home - Tuesday, Friday
+Eben: Office - Monday, Wednesday, Tuesday, Home - Friday, Thursday
+Emma: Office - Wednesday, Tuesday, Friday, Home - Thursday, Monday
+
+Schedule 76:
+Richard: Office - Thursday, Monday, Wednesday, Home - Friday, Tuesday
+Eben: Office - Monday, Wednesday, Friday, Home - Tuesday, Thursday
+Emma: Office - Wednesday, Friday, Tuesday, Home - Thursday, Monday
+
+Schedule 77:
+Richard: Office - Thursday, Monday, Friday, Home - Tuesday, Wednesday
+Eben: Office - Monday, Friday, Tuesday, Home - Wednesday, Thursday
+Emma: Office - Friday, Tuesday, Wednesday, Home - Thursday, Monday
+
+Schedule 78:
+Richard: Office - Thursday, Monday, Friday, Home - Wednesday, Tuesday
+Eben: Office - Monday, Friday, Wednesday, Home - Tuesday, Thursday
+Emma: Office - Friday, Wednesday, Tuesday, Home - Thursday, Monday
+
+Schedule 79:
+Richard: Office - Thursday, Tuesday, Monday, Home - Wednesday, Friday
+Eben: Office - Tuesday, Monday, Wednesday, Home - Friday, Thursday
+Emma: Office - Monday, Wednesday, Friday, Home - Thursday, Tuesday
+
+Schedule 80:
+Richard: Office - Thursday, Tuesday, Monday, Home - Friday, Wednesday
+Eben: Office - Tuesday, Monday, Friday, Home - Wednesday, Thursday
+Emma: Office - Monday, Friday, Wednesday, Home - Thursday, Tuesday
+
+Schedule 81:
+Richard: Office - Thursday, Tuesday, Wednesday, Home - Monday, Friday
+Eben: Office - Tuesday, Wednesday, Monday, Home - Friday, Thursday
+Emma: Office - Wednesday, Monday, Friday, Home - Thursday, Tuesday
+
+Schedule 82:
+Richard: Office - Thursday, Tuesday, Wednesday, Home - Friday, Monday
+Eben: Office - Tuesday, Wednesday, Friday, Home - Monday, Thursday
+Emma: Office - Wednesday, Friday, Monday, Home - Thursday, Tuesday
+
+Schedule 83:
+Richard: Office - Thursday, Tuesday, Friday, Home - Monday, Wednesday
+Eben: Office - Tuesday, Friday, Monday, Home - Wednesday, Thursday
+Emma: Office - Friday, Monday, Wednesday, Home - Thursday, Tuesday
+
+Schedule 84:
+Richard: Office - Thursday, Tuesday, Friday, Home - Wednesday, Monday
+Eben: Office - Tuesday, Friday, Wednesday, Home - Monday, Thursday
+Emma: Office - Friday, Wednesday, Monday, Home - Thursday, Tuesday
+
+Schedule 85:
+Richard: Office - Thursday, Wednesday, Monday, Home - Tuesday, Friday
+Eben: Office - Wednesday, Monday, Tuesday, Home - Friday, Thursday
+Emma: Office - Monday, Tuesday, Friday, Home - Thursday, Wednesday
+
+Schedule 86:
+Richard: Office - Thursday, Wednesday, Monday, Home - Friday, Tuesday
+Eben: Office - Wednesday, Monday, Friday, Home - Tuesday, Thursday
+Emma: Office - Monday, Friday, Tuesday, Home - Thursday, Wednesday
+
+Schedule 87:
+Richard: Office - Thursday, Wednesday, Tuesday, Home - Monday, Friday
+Eben: Office - Wednesday, Tuesday, Monday, Home - Friday, Thursday
+Emma: Office - Tuesday, Monday, Friday, Home - Thursday, Wednesday
+
+Schedule 88:
+Richard: Office - Thursday, Wednesday, Tuesday, Home - Friday, Monday
+Eben: Office - Wednesday, Tuesday, Friday, Home - Monday, Thursday
+Emma: Office - Tuesday, Friday, Monday, Home - Thursday, Wednesday
+
+Schedule 89:
+Richard: Office - Thursday, Wednesday, Friday, Home - Monday, Tuesday
+Eben: Office - Wednesday, Friday, Monday, Home - Tuesday, Thursday
+Emma: Office - Friday, Monday, Tuesday, Home - Thursday, Wednesday
+
+Schedule 90:
+Richard: Office - Thursday, Wednesday, Friday, Home - Tuesday, Monday
+Eben: Office - Wednesday, Friday, Tuesday, Home - Monday, Thursday
+Emma: Office - Friday, Tuesday, Monday, Home - Thursday, Wednesday
+
+Schedule 91:
+Richard: Office - Thursday, Friday, Monday, Home - Tuesday, Wednesday
+Eben: Office - Friday, Monday, Tuesday, Home - Wednesday, Thursday
+Emma: Office - Monday, Tuesday, Wednesday, Home - Thursday, Friday
+
+Schedule 92:
+Richard: Office - Thursday, Friday, Monday, Home - Wednesday, Tuesday
+Eben: Office - Friday, Monday, Wednesday, Home - Tuesday, Thursday
+Emma: Office - Monday, Wednesday, Tuesday, Home - Thursday, Friday
+
+Schedule 93:
+Richard: Office - Thursday, Friday, Tuesday, Home - Monday, Wednesday
+Eben: Office - Friday, Tuesday, Monday, Home - Wednesday, Thursday
+Emma: Office - Tuesday, Monday, Wednesday, Home - Thursday, Friday
+
+Schedule 94:
+Richard: Office - Thursday, Friday, Tuesday, Home - Wednesday, Monday
+Eben: Office - Friday, Tuesday, Wednesday, Home - Monday, Thursday
+Emma: Office - Tuesday, Wednesday, Monday, Home - Thursday, Friday
+
+Schedule 95:
+Richard: Office - Thursday, Friday, Wednesday, Home - Monday, Tuesday
+Eben: Office - Friday, Wednesday, Monday, Home - Tuesday, Thursday
+Emma: Office - Wednesday, Monday, Tuesday, Home - Thursday, Friday
+
+Schedule 96:
+Richard: Office - Thursday, Friday, Wednesday, Home - Tuesday, Monday
+Eben: Office - Friday, Wednesday, Tuesday, Home - Monday, Thursday
+Emma: Office - Wednesday, Tuesday, Monday, Home - Thursday, Friday
+
+Schedule 97:
+Richard: Office - Friday, Monday, Tuesday, Home - Wednesday, Thursday
+Eben: Office - Monday, Tuesday, Wednesday, Home - Thursday, Friday
+Emma: Office - Tuesday, Wednesday, Thursday, Home - Friday, Monday
+
+Schedule 98:
+Richard: Office - Friday, Monday, Tuesday, Home - Thursday, Wednesday
+Eben: Office - Monday, Tuesday, Thursday, Home - Wednesday, Friday
+Emma: Office - Tuesday, Thursday, Wednesday, Home - Friday, Monday
+
+Schedule 99:
+Richard: Office - Friday, Monday, Wednesday, Home - Tuesday, Thursday
+Eben: Office - Monday, Wednesday, Tuesday, Home - Thursday, Friday
+Emma: Office - Wednesday, Tuesday, Thursday, Home - Friday, Monday
+
+Schedule 100:
+Richard: Office - Friday, Monday, Wednesday, Home - Thursday, Tuesday
+Eben: Office - Monday, Wednesday, Thursday, Home - Tuesday, Friday
+Emma: Office - Wednesday, Thursday, Tuesday, Home - Friday, Monday
+
+Schedule 101:
+Richard: Office - Friday, Monday, Thursday, Home - Tuesday, Wednesday
+Eben: Office - Monday, Thursday, Tuesday, Home - Wednesday, Friday
+Emma: Office - Thursday, Tuesday, Wednesday, Home - Friday, Monday
+
+Schedule 102:
+Richard: Office - Friday, Monday, Thursday, Home - Wednesday, Tuesday
+Eben: Office - Monday, Thursday, Wednesday, Home - Tuesday, Friday
+Emma: Office - Thursday, Wednesday, Tuesday, Home - Friday, Monday
+
+Schedule 103:
+Richard: Office - Friday, Tuesday, Monday, Home - Wednesday, Thursday
+Eben: Office - Tuesday, Monday, Wednesday, Home - Thursday, Friday
+Emma: Office - Monday, Wednesday, Thursday, Home - Friday, Tuesday
+
+Schedule 104:
+Richard: Office - Friday, Tuesday, Monday, Home - Thursday, Wednesday
+Eben: Office - Tuesday, Monday, Thursday, Home - Wednesday, Friday
+Emma: Office - Monday, Thursday, Wednesday, Home - Friday, Tuesday
+
+Schedule 105:
+Richard: Office - Friday, Tuesday, Wednesday, Home - Monday, Thursday
+Eben: Office - Tuesday, Wednesday, Monday, Home - Thursday, Friday
+Emma: Office - Wednesday, Monday, Thursday, Home - Friday, Tuesday
+
+Schedule 106:
+Richard: Office - Friday, Tuesday, Wednesday, Home - Thursday, Monday
+Eben: Office - Tuesday, Wednesday, Thursday, Home - Monday, Friday
+Emma: Office - Wednesday, Thursday, Monday, Home - Friday, Tuesday
+
+Schedule 107:
+Richard: Office - Friday, Tuesday, Thursday, Home - Monday, Wednesday
+Eben: Office - Tuesday, Thursday, Monday, Home - Wednesday, Friday
+Emma: Office - Thursday, Monday, Wednesday, Home - Friday, Tuesday
+
+Schedule 108:
+Richard: Office - Friday, Tuesday, Thursday, Home - Wednesday, Monday
+Eben: Office - Tuesday, Thursday, Wednesday, Home - Monday, Friday
+Emma: Office - Thursday, Wednesday, Monday, Home - Friday, Tuesday
+
+Schedule 109:
+Richard: Office - Friday, Wednesday, Monday, Home - Tuesday, Thursday
+Eben: Office - Wednesday, Monday, Tuesday, Home - Thursday, Friday
+Emma: Office - Monday, Tuesday, Thursday, Home - Friday, Wednesday
+
+Schedule 110:
+Richard: Office - Friday, Wednesday, Monday, Home - Thursday, Tuesday
+Eben: Office - Wednesday, Monday, Thursday, Home - Tuesday, Friday
+Emma: Office - Monday, Thursday, Tuesday, Home - Friday, Wednesday
+
+Schedule 111:
+Richard: Office - Friday, Wednesday, Tuesday, Home - Monday, Thursday
+Eben: Office - Wednesday, Tuesday, Monday, Home - Thursday, Friday
+Emma: Office - Tuesday, Monday, Thursday, Home - Friday, Wednesday
+
+Schedule 112:
+Richard: Office - Friday, Wednesday, Tuesday, Home - Thursday, Monday
+Eben: Office - Wednesday, Tuesday, Thursday, Home - Monday, Friday
+Emma: Office - Tuesday, Thursday, Monday, Home - Friday, Wednesday
+
+Schedule 113:
+Richard: Office - Friday, Wednesday, Thursday, Home - Monday, Tuesday
+Eben: Office - Wednesday, Thursday, Monday, Home - Tuesday, Friday
+Emma: Office - Thursday, Monday, Tuesday, Home - Friday, Wednesday
+
+Schedule 114:
+Richard: Office - Friday, Wednesday, Thursday, Home - Tuesday, Monday
+Eben: Office - Wednesday, Thursday, Tuesday, Home - Monday, Friday
+Emma: Office - Thursday, Tuesday, Monday, Home - Friday, Wednesday
+
+Schedule 115:
+Richard: Office - Friday, Thursday, Monday, Home - Tuesday, Wednesday
+Eben: Office - Thursday, Monday, Tuesday, Home - Wednesday, Friday
+Emma: Office - Monday, Tuesday, Wednesday, Home - Friday, Thursday
+
+Schedule 116:
+Richard: Office - Friday, Thursday, Monday, Home - Wednesday, Tuesday
+Eben: Office - Thursday, Monday, Wednesday, Home - Tuesday, Friday
+Emma: Office - Monday, Wednesday, Tuesday, Home - Friday, Thursday
+
+Schedule 117:
+Richard: Office - Friday, Thursday, Tuesday, Home - Monday, Wednesday
+Eben: Office - Thursday, Tuesday, Monday, Home - Wednesday, Friday
+Emma: Office - Tuesday, Monday, Wednesday, Home - Friday, Thursday
+
+Schedule 118:
+Richard: Office - Friday, Thursday, Tuesday, Home - Wednesday, Monday
+Eben: Office - Thursday, Tuesday, Wednesday, Home - Monday, Friday
+Emma: Office - Tuesday, Wednesday, Monday, Home - Friday, Thursday
+
+Schedule 119:
+Richard: Office - Friday, Thursday, Wednesday, Home - Monday, Tuesday
+Eben: Office - Thursday, Wednesday, Monday, Home - Tuesday, Friday
+Emma: Office - Wednesday, Monday, Tuesday, Home - Friday, Thursday
+
+Schedule 120:
+Richard: Office - Friday, Thursday, Wednesday, Home - Tuesday, Monday
+Eben: Office - Thursday, Wednesday, Tuesday, Home - Monday, Friday
+Emma: Office - Wednesday, Tuesday, Monday, Home - Friday, Thursday
+
