@@ -112,7 +112,7 @@ require 'config.php';
 
     <div class="container">
         <form>
-            <input type="text" id="search" placeholder="Search by name id or record" style="width: 100%; padding: 10px; margin-bottom: 10px;  font-size: 20px;">
+            <input type="text" id="search" placeholder="Search by  id or record" style="width: 100%; padding: 10px; margin-bottom: 10px;  font-size: 20px;">
         </form>
 
         <table>

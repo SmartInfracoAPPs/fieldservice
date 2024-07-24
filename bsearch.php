@@ -4,7 +4,7 @@ require 'config.php';
 if (isset($_POST['search'])) {
     $search = $_POST['search'];
     try {
-        $query = "SELECT * FROM tb_images WHERE name LIKE ?";
+        $query = "SELECT * FROM table_backup WHERE name LIKE ?";
         $stmt = $conn->prepare($query);
         $stmt->bind_param('s', $searchParam);
         

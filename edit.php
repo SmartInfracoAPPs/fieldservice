@@ -11,7 +11,7 @@ $id = $_GET['id'];
 try {
   
     // Fetch record details from database
-    $query = "SELECT * FROM tb_images WHERE id = ?";
+    $query = "SELECT * FROM table_backup WHERE id = ?";
     $stmt = $conn->prepare($query);
     $stmt->bind_param("i", $id);
     $stmt->execute();

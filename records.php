@@ -127,7 +127,7 @@ require 'config.php';
             <tbody>
                 <?php
                 try {
-                    $query = "SELECT * FROM tb_images";
+                    $query = "SELECT * FROM table_backup";
                     $result = $conn->query($query);
 
                     if ($result && $result->num_rows > 0) {
