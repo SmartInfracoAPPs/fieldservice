@@ -1,4 +1,11 @@
 <?php
+session_start();
+
+// Check if user is logged in
+if (!isset($_SESSION['user_name'])) {
+    header("Location: index.php");
+    exit();
+}
 require 'config.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
