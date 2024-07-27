@@ -12,13 +12,18 @@ body {
 	box-sizing: border-box;
 }
 
-form {
-	width: 500px;
-	border: 2px solid #ccc;
-	padding: 30px;
-	background: #fff;
-	border-radius: 15px;
-}
+
+
+form{
+    /* background: rgba(27,31,34); */
+    width: 450px;
+    margin: 65px auto;
+    max-width: 97%;
+    border-radius: 4px;
+    padding: 55px 30px;
+    /* border: 1px solid white; */
+    
+  }
 
 h2 {
 	text-align: center;
@@ -33,11 +38,17 @@ input {
 	margin: 10px auto;
 	border-radius: 5px;
 }
-label {
-	color: #888;
-	font-size: 18px;
-	padding: 10px;
-}
+form label{
+    display: block;
+    /* font-size: 16px; */
+    margin-bottom: 16px;
+    font-family: Verdana;
+  }
+  .imgBG{
+    background-image: url('./assets/dc-home.png');
+    background-size: cover;
+
+  }
 
 button {
 	float: right;

@@ -11,7 +11,7 @@ require 'config.php';
 if (isset($_POST['search'])) {
     $search = $_POST['search'];
     try {
-        $query = "SELECT * FROM table_backup WHERE name LIKE ?";
+        $query = "SELECT * FROM table_backup WHERE customer_name LIKE ?";
         $stmt = $conn->prepare($query);
         $stmt->bind_param('s', $searchParam);
         
@@ -23,8 +23,12 @@ if (isset($_POST['search'])) {
         if ($result && $result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
                 echo "<tr>";
-                echo "<td>" . htmlspecialchars($row['id']) . "</td>";
-                echo "<td><a href='edit.php?id={$row['id']}' style='text-decoration: none; color: #333;  font-size: 20px;'>" . htmlspecialchars($row['name']) . "</a></td>";
+                echo "<td  class='px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-100'>" . htmlspecialchars($row['id']) . "</td>";
+                echo "<td  class='px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-100'><a href='details.php?id={$row['id']}' >" . htmlspecialchars($row['customer_name']) . "</a></td>";
+                echo "<td  class='px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-100'>" . htmlspecialchars($row['date']) . "</td>";
+                echo "<td  class='px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-100'>" . htmlspecialchars($row['type_of_service']) . "</td>";
+                echo "<td  class='px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-100'>" . htmlspecialchars($row['timestamp_field']) . "</td>";
+
                 echo "</tr>";
             }
         } else {

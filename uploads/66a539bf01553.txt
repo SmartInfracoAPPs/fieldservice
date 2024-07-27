@@ -1,0 +1,589 @@
+Server:		aanda.gov.gh
+Address:	10.247.5.166#53
+
+Name:	aanda.gov.gh
+Address: 172.239.2.116
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+** server can't find aaswda.gov.gh: NXDOMAIN
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	adma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	aema.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	afsda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ahantawestdistrict.gov.gh
+Address: 10.247.5.220
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ahrcc.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	asema.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ayawasonma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	bma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	bnda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	bonoeastrcc.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	buildingpermits.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+** server can't find caa.gov.gh: NXDOMAIN
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	coda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	covid-19.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	crcc.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	csa.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ctvet.gov.gh
+Address: 10.247.5.98
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	cybersecurity.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	dohaembassy.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ect.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	effutuma.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ejima.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	emergency.nita.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	fairwages.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	fic.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	freebus.moh.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	gamingcommission.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	gdnr.org.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	gdpc.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ges.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	getfund.gov.gh
+Address: 10.247.5.98
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	gfza.gov.gh
+Address: 10.247.5.166
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	ggsa.gov.gh
+Address: 10.247.5.161
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ghanaculture.gov.gh
+Address: 10.247.5.166
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	gil.edu.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	gmmb.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	gratis.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	gtec.edu.gh
+Address: 197.253.124.149
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	hwda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	inspectorateboard.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	its.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	juada.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	kema.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+** server can't find kpada.gov.gh: NXDOMAIN
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	kwadma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	lanmma.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	lekma.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+** server can't find lmkma.gov.gh: NXDOMAIN
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	masloc.gov.gh
+Address: 10.247.5.166
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+** server can't find mbda.gov.gh: NXDOMAIN
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	mcta.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	mfantsemanma.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	miif.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	mobile.cybersecurity.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	moffa.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	moh.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	moti.gov.gh
+Address: 10.247.5.166
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	mpe.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	mswr.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nadmo.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nafco.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nas.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nationalcovidtrustfund.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nationaltheatre.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nema.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nercc.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	nia.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	njnma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	northernrcc.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	ofkma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	Okeda.gov.gh
+Address: 172.239.2.110
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+** server can't find pfmrp.gov.gh: NXDOMAIN
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	praad.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	psweps.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Non-authoritative answer:
+Name:	sadagh.org
+Address: 183.181.96.96
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	schoolfeeding.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	seda.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	srcc.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	stc.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	swdag.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	tecma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	tenda.gov.gh
+Address: 172.239.2.110
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	thldda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	tracing.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	twma.gov.gh
+Address: 197.253.68.65
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	udema.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	udwda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	unipassghana.gov.gh
+Address: 172.239.2.110
+
+;; Got SERVFAIL reply from 10.240.1.20, trying next server
+Server:		10.240.1.36
+Address:	10.240.1.36#53
+
+Name:	uwada.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	waeastda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	waema.gov.gh
+Address: 172.239.2.110
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	wgda.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	wgma.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	wrcc.gov.gh
+Address: 10.247.5.166
+
+Server:		10.240.1.20
+Address:	10.240.1.20#53
+
+Name:	yendihospital.gov.gh
+Address: 10.247.5.166
+
