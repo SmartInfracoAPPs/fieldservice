@@ -1,14 +1,12 @@
 <?php
 session_start();
 
-// Check if user is logged in
+
 if (!isset($_SESSION['user_name'])) {
     header("Location: index.php");
     exit();
 }
 require 'config.php';
-
-// Ensure ID parameter is provided
 if (!isset($_GET['id']) || empty($_GET['id'])) {
     die("Invalid request. Missing record ID.");
 }
@@ -17,7 +15,6 @@ $id = $_GET['id'];
 
 try {
   
-    // Fetch record details from database
     $query = "SELECT * FROM tb_images WHERE id = ?";
     $stmt = $conn->prepare($query);
     $stmt->bind_param("i", $id);
@@ -35,7 +32,7 @@ try {
         $customer_address= htmlspecialchars($row['customer_address']);
         $customer_contact= htmlspecialchars($row['customer_contact']);
         $customer_signature= htmlspecialchars($row['customer_signature']);
-        $equipments_installed= htmlspecialchars($row['equipments_installed']);
+        $equipments_installed= explode("\n", $row['equipments_installed']);
         $config_details= htmlspecialchars($row['config_details']);
         $serial_numbers= htmlspecialchars($row['serial_numbers']);
         $type_of_service= htmlspecialchars($row['type_of_service']);
@@ -127,12 +124,11 @@ try {
           </div>
 
           <div class="sm:col-span-full">
-            <h2 class="text-base font-semibold leading-7 text-gray-100">Equipment Details</h2>
-            <label for="equipments_installed" class="block text-sm font-medium leading-6 text-gray-100">Equipment installed</label>
-            <div class="mt-2">
-              <textarea id="equipments_installed" name="equipments_installed"    rows="3"   value="<?php echo $equipments_installed; ?>"  class=" bg-gray-600/25 hover:bg-gray-600/50 block w-full rounded-md border-0 py-1.5 text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
-            </div>
-          </div>
+  <label for="equipments_installed" class="block text-sm font-medium leading-6 text-gray-100">Equipment Installed</label>
+  <div class="mt-2">
+    <textarea id="equipments_installed" name="equipments_installed" rows="3" class="bg-gray-600/25 hover:bg-gray-600/50 block w-full rounded-md border-0 py-1.5 text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"><?php echo htmlspecialchars(implode("\n", $equipments_installed)); ?></textarea>
+  </div>
+</div>
   
           <div class="sm:col-span-3 ">
             <label for="config_details" class="block text-sm font-medium leading-6 text-gray-100">Configuration details</label>
@@ -151,12 +147,11 @@ try {
       </div>
 
       <div class="col-span-full">
-        <label for="comments" class="block text-sm font-medium leading-6 text-gray-100">Comments</label>
-        <div class="mt-2">
-          <textarea id="comments" name="comments" rows="3" value="<?php echo $comments; ?>"    class=" bg-gray-600/25 hover:bg-gray-600/50 block w-full rounded-md border-0 py-1.5 text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
-        </div>
-        <p class="mt-3 text-sm leading-6 text-gray-600">Write a few sentences about yourself.</p>
-      </div>
+  <label for="comments" class="block text-sm font-medium leading-6 text-gray-100">Comments</label>
+  <div class="mt-2">
+    <textarea id="comments" name="comments" rows="3" class="bg-gray-600/25 hover:bg-gray-600/50 block w-full rounded-md border-0 py-1.5 text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"><?php echo htmlspecialchars($comments); ?></textarea>
+  </div>
+</div>
 
   </div>
 

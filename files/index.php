@@ -8,7 +8,7 @@
 <body class="bg-[#111827]">
 <div>
         <div class=" flex justify-center items-center p-1">
-            <img src="./assets/logo.svg" alt="" srcset="">
+            <img src="./CPEMS.png" alt="" srcset="">
         </div>
 
            <form class="border-gray-600 mt-[1%] border-[0.25px] bg-gray-600/5 backdrop-blur-md transition duration-300 ease-in-out" action="login.php" method="post">

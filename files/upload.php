@@ -18,10 +18,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
     $customer_contact=$_POST['customer_contact']; 
     $customer_signature=$_POST['customer_signature']; 
     $equipments_installed=$_POST['equipments_installed']; 
+    $equipments_installed = implode(",", $equipments_installed);
     $config_details=$_POST['config_details']; 
     $serial_numbers=$_POST['serial_numbers']; 
     $type_of_service=$_POST['type_of_service']; 
     $site_id=$_POST['site_id']; 
+
 
 
 
@@ -90,6 +92,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
     <title>Upload A Record</title>
     <link rel="stylesheet" href="./css/upload.css">
     <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/gh/habibmhamadi/multi-select-tag@3.1.0/dist/js/multi-select-tag.js"></script>
+
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 </head>
 <body class="bg-[#111827]">
@@ -146,12 +150,41 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
           </div>
 
           <div class="sm:col-span-full">
-            <h2 class="text-base font-semibold leading-7 text-gray-100">Equipment Details</h2>
-            <label for="equipments_installed" class="block text-sm font-medium leading-6 text-gray-100">Equipment installed</label>
-            <div class="mt-2">
-              <textarea id="equipments_installed" name="equipments_installed" rows="3" class=" bg-gray-600/25 hover:bg-gray-600/50 block w-full rounded-md border-0 py-1.5 text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
-            </div>
-          </div>
+    <h2 class="text-base font-semibold leading-7 text-gray-100">Equipment Details</h2>
+    <label for="equipments_installed" class="block text-sm font-medium leading-6 text-gray-100">Equipment installed</label>
+    <div class="mt-2">
+      <select id="equipments_installed" name="equipments_installed[]" multiple >
+        <option value="Huawei S5700 MPLS L3 Switch">Huawei S5700 MPLS L3 Switch</option>
+        <option value="Huawei AR1220W Router">Huawei AR1220W Router</option>
+        <option value="Huawei S2700 Switch">Huawei S2700 Switch</option>
+        <option value="Huawei S2300 Switch">Huawei S2300 Switch</option>
+        <option value="Huawei S3300 Switch">Huawei S3300 Switch</option>
+        <option value="Huawei S3700 Switch">Huawei S3700 Switch</option>
+        <option value="Huawei Quidway S5720-52X Switch">Huawei Quidway S5720-52X Switch</option>
+        <option value="Huawei eA360-123 LTE CPE">Huawei eA360-123 LTE CPE</option>
+        <option value="Huawei B222s-41 LTE CPE">Huawei B222s-41 LTE CPE</option>
+        <option value="Huawei ATN950">Huawei ATN950</option>
+        <option value="Ubiquiti PowerBeam 5AC Gen2">Ubiquiti PowerBeam 5AC Gen2</option>
+        <option value="Ubiquiti LiteBeam 5AC Gen2">Ubiquiti LiteBeam 5AC Gen2</option>
+        <option value="Ubiquiti NanoStation M5">Ubiquiti NanoStation M5</option>
+        <option value="Ubiquiti NanoStation M2">Ubiquiti NanoStation M2</option>
+        <option value="Ubiquiti Ethernet Surge Arrestor">Ubiquiti Ethernet Surge Arrestor</option>
+        <option value="Ubiquiti U6 Mesh Pro">Ubiquiti U6 Mesh Pro</option>
+        <option value="24 Volts PoE Adaptor">24 Volts PoE Adaptor</option>
+        <option value="54 Volts PoE Adaptor">54 Volts PoE Adaptor</option>
+        <option value="Pole And Arm">Pole And Arm</option>
+        <option value="Anchor Bolts">Anchor Bolts</option>
+        <option value="CAT6 Outdoor LAN Cable">CAT6 Outdoor LAN Cable</option>
+        <option value="CAT6 Indoor LAN Cable">CAT6 Indoor LAN Cable</option>
+        <option value="3m LAN Patch Cable">3m LAN Patch Cable</option>
+        <option value="Fibre Patch Cord">Fibre Patch Cord</option>
+        <option value="Media Convertor">Media Convertor</option>
+        <option value="Fibre Drop Cable">Fibre Drop Cable</option>
+        <option value="2-Core Fibre ODF">2-Core Fibre ODF</option>
+        <option value="ISO Clips">ISO Clips</option>
+      </select>
+    </div>
+  </div>
   
           <div class="sm:col-span-3 ">
             <label for="config_details" class="block text-sm font-medium leading-6 text-gray-100">Configuration details</label>
@@ -174,7 +207,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
         <div class="mt-2">
           <textarea id="comments" name="comments" rows="3" class=" bg-gray-600/25 hover:bg-gray-600/50 block w-full rounded-md border-0 py-1.5 text-gray-100 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
         </div>
-        <p class="mt-3 text-sm leading-6 text-gray-600">Write a few sentences about yourself.</p>
+        <p class="mt-3 text-sm leading-6 text-gray-600">Write a few comments.</p>
       </div>
 
   </div>
@@ -276,6 +309,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
     <button type="submit" name="submit" value="SUBMIT" class="rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Save</button>
   </div>
 </form>
+
+
+
+ <script>
+    new MultiSelectTag('equipments_installed', {
+      rounded: true,
+      shadow: true,
+      placeholder: 'Search',
+      tagColor: {
+        textColor: '#f3f8f3',
+        borderColor: '#92e681',
+        bgColor: '#4f6d4a',
+      },
+      onChange: function(values) {
+        console.log(values);
+      }
+    });
+  </script>
 
 </body>
 </html>
