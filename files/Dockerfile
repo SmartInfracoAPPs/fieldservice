@@ -13,7 +13,7 @@ RUN apt-get update && \
     docker-php-ext-configure gd --with-freetype --with-jpeg && \
     docker-php-ext-install -j$(nproc) gd mysqli pdo_mysql zip
 
-COPY files/ /var/www/html
+COPY ./files /var/www/html
 
 # Set working directory
 WORKDIR /var/www/html
