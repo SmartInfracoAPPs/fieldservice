@@ -21,7 +21,7 @@ services:
     depends_on:
       - mysql
     volumes:
-      - ./files:/var/www/html
+     # - ./files:/var/www/html
       - ./uploads:/var/www/html/uploads  
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
