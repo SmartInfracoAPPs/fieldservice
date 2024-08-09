@@ -19,7 +19,7 @@ RUN apt-get update && \
 WORKDIR /var/www/html
 
 
-COPY  ../files/ /var/www/html
+COPY  ./files/* /var/www/html
 
 
 
