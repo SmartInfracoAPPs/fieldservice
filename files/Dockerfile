@@ -13,24 +13,13 @@ RUN apt-get update && \
     docker-php-ext-configure gd --with-freetype --with-jpeg && \
     docker-php-ext-install -j$(nproc) gd mysqli pdo_mysql zip
 
-
-COPY   file/  /var/www/html
-
-
 # Set working directory
 WORKDIR /var/www/html
-
-
-
-
-
-
 
 # Create uploads directory and set permissions
 RUN mkdir -p uploads && \
     chown -R www-data:www-data uploads && \
     chmod -R 755 uploads
-
 
 RUN chown -R www-data:www-data /var/www/html
 RUN chmod -R 755 /var/www/html
