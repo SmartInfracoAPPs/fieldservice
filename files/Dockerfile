@@ -14,7 +14,7 @@ RUN apt-get update && \
     docker-php-ext-install -j$(nproc) gd mysqli pdo_mysql zip
 
 
-COPY   index.php  /var/www/html
+COPY   file/  /var/www/html
 
 
 # Set working directory
