@@ -14,7 +14,7 @@ services:
   php:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: files/Dockerfile
     container_name: php
     restart: always
     ports:
