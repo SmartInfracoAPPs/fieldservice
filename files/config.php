@@ -20,13 +20,13 @@ try {
 
 
 <?php
-$host = 'mysql'; // Docker service name if using Docker Compose
-$dbname = 'mydatabase';
-$username = 'user';
-$password = 'password';
-
+$host = '10.247.5.180';
+$username = 'mstracker_admin';
+$password = 'AuZ2ZrOfmSTltz4ZdM57AACfhYSRPSsVBV16ACztCJjYFPiDm5zFcuejDVP1DaJs';
+$database = 'mydatabase';
+$port = 5432;
 // Create connection
-$conn = new mysqli($host, $username, $password, $dbname);
+ $conn = new mysqli($host, $username, $password, $database, $port);
 
 // Check connection
 if ($conn->connect_error) {
